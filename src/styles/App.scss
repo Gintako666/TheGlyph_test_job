@@ -1,0 +1,29 @@
+@import './utils/utils';
+@import './components/components';
+
+* {
+  font-family: 'Roboto';
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+.App {
+  max-width: 1920px;
+  margin: 0 auto;
+  padding: 20px;
+  padding: 60px 20px 20px 40px;
+  display: grid;
+  gap: 150px;
+
+  grid-template-columns: 340px auto;
+
+  @include onDesktop {
+    gap: 20px;
+
+  }
+}

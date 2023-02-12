@@ -1,0 +1,18 @@
+@mixin centerElementsInBlock {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@mixin scrollbar {
+  &::-webkit-scrollbar {
+    width: 4px;
+    background: rgba(11, 12, 13, 0.1);
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background: #0C0C0C;
+    width: 4px;
+    border-radius: 4px;
+  }
+}

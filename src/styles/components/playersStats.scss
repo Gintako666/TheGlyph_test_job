@@ -28,7 +28,7 @@
 
     &__item {
       display: grid;
-      grid-template-columns: 200px 120px repeat(4, 1fr);
+      grid-template-columns: 2fr repeat(5, 1fr);
 
       &__title {
         text-transform: uppercase;

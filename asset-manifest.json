@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/TheGlyph_test_job/static/css/main.5fd55cdc.chunk.css",
+    "main.css": "/TheGlyph_test_job/static/css/main.0b064ffb.chunk.css",
     "main.js": "/TheGlyph_test_job/static/js/main.a21ee25e.chunk.js",
     "main.js.map": "/TheGlyph_test_job/static/js/main.a21ee25e.chunk.js.map",
     "runtime-main.js": "/TheGlyph_test_job/static/js/runtime-main.f091b584.js",
@@ -8,13 +8,13 @@
     "static/js/2.43961104.chunk.js": "/TheGlyph_test_job/static/js/2.43961104.chunk.js",
     "static/js/2.43961104.chunk.js.map": "/TheGlyph_test_job/static/js/2.43961104.chunk.js.map",
     "index.html": "/TheGlyph_test_job/index.html",
-    "static/css/main.5fd55cdc.chunk.css.map": "/TheGlyph_test_job/static/css/main.5fd55cdc.chunk.css.map",
+    "static/css/main.0b064ffb.chunk.css.map": "/TheGlyph_test_job/static/css/main.0b064ffb.chunk.css.map",
     "static/js/2.43961104.chunk.js.LICENSE.txt": "/TheGlyph_test_job/static/js/2.43961104.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f091b584.js",
     "static/js/2.43961104.chunk.js",
-    "static/css/main.5fd55cdc.chunk.css",
+    "static/css/main.0b064ffb.chunk.css",
     "static/js/main.a21ee25e.chunk.js"
   ]
 }

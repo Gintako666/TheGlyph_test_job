@@ -16,14 +16,18 @@ li {
   max-width: 1920px;
   margin: 0 auto;
   padding: 20px;
-  padding: 60px 20px 20px 40px;
+  padding: 60px 40px 30px 40px;
   display: grid;
-  gap: 150px;
-
-  grid-template-columns: 340px auto;
+  gap: 100px;
 
   @include onDesktop {
-    gap: 20px;
+   padding-bottom: 30px;
+  }
+
+  grid-template-columns: 350px auto;
+
+  @include onDesktop {
+    gap: 0;
 
   }
 }

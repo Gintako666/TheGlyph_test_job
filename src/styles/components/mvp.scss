@@ -3,12 +3,14 @@
 
   @include onDesktop {
     width: 100%;
+    padding: 30px;
+    left: 0;
   }
 
   position: absolute;
   bottom: 20px;
   right: 50px;
-  padding: 30px;
+  padding: 40px;
   background: #1C1B1B;
   border-radius: 20px;
 

@@ -14,7 +14,7 @@ export const MVP = () => {
   return (
     <div className="mvp">
       <div className="mvp__player">
-        <h2 className="mvp__player__title">mvp player</h2>
+        <h2 className="mvp__player__title">MVP PLAYER</h2>
         <h1 className="mvp__player__name">{player.name}</h1>
       </div>
       <div className="mvp__info">

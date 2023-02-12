@@ -17,7 +17,7 @@ export const PlayersStats = () => {
           <strong className="players-stats__list__item__title players-stats__list__item__info--name">
             name
           </strong>
-          <strong className="players-stats__list__item__title">
+          <strong className="players-stats__list__item__title players-stats__list__item__info--name">
             team
           </strong>
           <strong className="players-stats__list__item__title">
@@ -43,7 +43,7 @@ export const PlayersStats = () => {
               <strong className="players-stats__list__item__info players-stats__list__item__info--name">
                 {name}
               </strong>
-              <strong className="players-stats__list__item__info">
+              <strong className="players-stats__list__item__info players-stats__list__item__info--name">
                 {team}
               </strong>
               <strong className="players-stats__list__item__info">
